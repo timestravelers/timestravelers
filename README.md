@@ -23,7 +23,7 @@ I build:
 🔧 Teknologi: HTML5, JavaScript, TensorFlow.js, OpenCV.js, Capacitor.js  
 📷 Fitur: Kamera, Prediksi Harga, Export PDF, TradingView Integration
 
-🔗 [Lihat aplikasi](https://github.com/timestravelers/ChartSniper-Pro) 
+🔗 [Lihat aplikasi](https://github.com/timestravelers/ChartSniper) 
 
 ---
 
